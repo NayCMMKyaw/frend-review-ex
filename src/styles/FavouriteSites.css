@@ -1,0 +1,20 @@
+.Fav section{
+    text-align: center;
+    align-items: center;
+    
+}
+.Fav ul{
+    padding: 0;
+}
+.Fav li{
+    list-style-type: none;
+}
+.Fav a{
+    color: green;
+}
+.Fav a:hover{
+    color:red;
+}
+.Fav{
+    margin: 20px;
+}

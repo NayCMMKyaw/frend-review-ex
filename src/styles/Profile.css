@@ -1,0 +1,16 @@
+.Profile{
+    width: 40%;
+    margin:20px auto;
+    padding: 20px;
+}
+.Profile section{
+    text-align: center;
+}
+.Profile:hover{
+    border: 1px red solid;
+    
+}
+.Profile:hover h2{
+    color: red;
+    transition: 1s;
+}
